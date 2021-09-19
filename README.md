@@ -1,2 +1,2 @@
 # certificates
-Certificates obtained from online learning platforms
+Certificates obtained from online learning platforms.
